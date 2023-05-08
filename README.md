@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mbangash13
-- 👀 I’m interested in Desktop Application Development and Mobile Application Development 
-- 🌱 I’m currently learning Mobile Application Development 
+- 👀 Data Scientist and Mobile Applcation Developer 
 - 📫 How to reach me: 
      Email: mshlbangash@gmail.com
      Instagram: Mashal.bangash
